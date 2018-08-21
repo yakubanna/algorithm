@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanna/Documents/algorithm/k_stat_in_window/main.cpp
+vector
+-
+iostream
+-
+exception
+-
+algorithm
+-
+list
+-
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+cstdlib
+-
+iostream
+-
+ctime
+-
+

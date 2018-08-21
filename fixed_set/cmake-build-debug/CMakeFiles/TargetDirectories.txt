@@ -1,0 +1,3 @@
+/home/hanna/Documents/algorithm/fixed_set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hanna/Documents/algorithm/fixed_set/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hanna/Documents/algorithm/fixed_set/cmake-build-debug/CMakeFiles/fixed_set.dir
